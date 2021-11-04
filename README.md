@@ -9,4 +9,7 @@
 4. python pass.py [argument] --> python pass.py email 
 ```
 
+in case you face any error for copy/paste mechanism install this:
+`sudo apt install xsel`
+
 then it'll copy the intended password in your clipboard :)
